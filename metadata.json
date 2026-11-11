@@ -1,0 +1,6 @@
+{
+  "name": "BoxOfCoins Algorithm Visualizer",
+  "description": "Interactive dynamic programming visualizer, step-by-step dry-run engine, and game theory simulator for the BoxOfCoins algorithm with visual coin picking, 1D space optimization demystified, and playable sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
